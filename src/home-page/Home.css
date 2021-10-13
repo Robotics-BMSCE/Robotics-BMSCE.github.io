@@ -1,0 +1,24 @@
+.home-container {
+   display: block;
+   margin-top: 2%;
+}
+
+.home-h1 {
+    font-size: 55px;
+    font-weight: 600;
+}
+
+.home-p {
+    font-size: 30px;
+}
+
+.not-animation {
+    display: inline;
+    position: absolute;
+    text-align: center;
+    top: 55%;
+    color: lightblue;
+    opacity: 0.9;
+    width: 100%;
+    margin: auto;
+}

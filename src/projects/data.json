@@ -1,0 +1,44 @@
+{
+    "projects": [
+        {
+            "id": "1",
+            "name": "LIDAR",
+            "desc": "LIDAR is a good project made by some people who did a good job at it. It wasgood and did its job perfectly. Documented also",
+            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true",
+            "doc": "LIDAR project file.txt",
+            "by": ["Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan"]
+        },
+        {
+            "id": "2",
+            "name": "LIDAR",
+            "desc": "LIDAR is a good project made by some people who did a good job at it. It wasgood and did its job perfectly. Documented also",
+            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true",
+            "doc": "LIDAR project file.txt",
+            "by": ["Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan"]
+        },
+        {
+            "id": "3",
+            "name": "LIDAR",
+            "desc": "LIDAR is a good project made by some people who did a good job at it. It wasgood and did its job perfectly. Documented also",
+            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true",
+            "doc": "LIDAR project file.txt",
+            "by": ["Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan"]
+        },
+        {
+            "id": "4",
+            "name": "LIDAR",
+            "desc": "LIDAR is a good project made by some people who did a good job at it. It wasgood and did its job perfectly. Documented also",
+            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true",
+            "doc": "LIDAR project file.txt",
+            "by": ["Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan"]
+        },
+        {
+            "id": "5",
+            "name": "LIDAR",
+            "desc": "LIDAR is a good project made by some people who did a good job at it. It wasgood and did its job perfectly. Documented also",
+            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true",
+            "doc": "LIDAR project file.txt",
+            "by": ["Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan"]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+.team-member-container {
+    padding: 10px;
+    margin: 20px;
+    margin-bottom: 50px;
+}
+
+.team-member-img {
+    height: 13rem;
+    width: 13rem;
+    border-radius: 130px;
+}
+
+.team-member-h5 {
+    font-size: 20px;
+}
+
+.team-member-h3 {
+    font-size: 35px;
+}
+
+.team-member-p {
+    font-size: 16px;
+}

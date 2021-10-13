@@ -1,0 +1,81 @@
+.contactform-container {
+    display: flex;
+    margin: 2rem;
+}
+
+.name-email {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 1rem;
+}
+
+.form-label {
+    padding: 1rem;
+    font-weight: 550;
+}
+
+.form-control {
+    height: 2rem;
+    padding-right: 5rem;
+}
+
+.form-control-textarea {
+    width: 60%;
+    height: 4rem;
+}
+
+.submit-button {
+    height: 2rem;
+    width: 5rem;
+    color: white;
+    font-weight: 400;
+    font-size: 1rem;
+    background: #0f960f;
+    border: #0c0c0c;
+    border-radius: 4px;
+}
+
+.submit-button:hover {
+    background: #17ec17;
+    transform: scale(1.02);
+}
+
+.submit-button:active {
+    background: #17ec17;
+    transform: scale(0.98);
+}
+
+@media (max-width: 600px) {
+    .name-email {
+        flex-direction: column;
+        padding-bottom: 0rem;
+    }
+
+    .form-group {
+        margin: 0.5rem;
+    }
+
+    .form-label-textarea {
+        margin-left: -5rem;
+    }
+
+    .form-control-textarea {
+        width: 12rem;
+    }
+}
+
+@media (max-width: 400px) {
+    .form-group {
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+    }
+
+    .form-label-textarea {
+        padding-left: 6rem;
+    }
+
+    .form-control-textarea {
+        width: 100%;
+    }
+}

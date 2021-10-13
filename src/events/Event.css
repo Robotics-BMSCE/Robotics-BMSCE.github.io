@@ -1,0 +1,40 @@
+.event-container {
+    border: 1px solid black;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: row;
+    margin: 2%;
+    padding: 15px;
+}
+
+.event-img {
+    display: flex;
+    flex-direction: column;
+    width: 120%;
+    margin-right: 2%;
+}
+
+.event-image {
+    height: 100%;
+    width: 100%;
+}
+
+.event-platform {
+    font-weight: 700;
+}
+
+@media (max-width: 1000px) {
+    .event-img {
+        width: 150%;
+    }
+}
+
+@media (max-width: 850px) {
+    .event-container {
+        flex-direction: column;
+    }
+
+    .event-img {
+        width: 100%;
+    }
+}

@@ -1,0 +1,14 @@
+.eventpage-container {
+    background: white;
+    border-radius: 25px;
+    color: black;
+    margin: 3.5%;
+    display: flex;
+    flex-direction: column;
+    padding: 5%;
+}
+
+.eventpage-h3 {
+    font-size: 35px;
+    text-align: center;
+}

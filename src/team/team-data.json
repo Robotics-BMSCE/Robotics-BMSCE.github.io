@@ -1,0 +1,60 @@
+{
+    "faculty": [
+        {
+            "name": "Raj",
+            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/faculty/Raj.jpg?raw=true",
+            "post": "Professor",
+            "email": "raj.is20@bmsce.ac.in"
+        },
+        {
+            "name": "Raj",
+            "post": "Professor",
+            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/faculty/Raj.jpg?raw=true",
+            "email": "raj.is20@bmsce.ac.in"
+        },
+        {
+            "name": "Raj",
+            "post": "Professor",
+            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/faculty/Raj.jpg?raw=true",
+            "email": "raj.is20@bmsce.ac.in"
+        }
+    ],
+    "committee": [
+        {
+            "name": "Raj",
+            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/committee/Raj.jpg?raw=true",
+            "division": "Computational Control and Intelligence",
+            "email": "raj.is20@bmsce.ac.in"
+        },
+        {
+            "name": "Raj",
+            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/committee/Raj.jpg?raw=true",
+            "division": "Computational Control and Intelligence",
+            "email": "raj.is20@bmsce.ac.in"
+        },
+        {
+            "name": "Raj",
+            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/committee/Raj.jpg?raw=true",
+            "division": "Computational Control and Intelligence",
+            "email": "raj.is20@bmsce.ac.in"
+        },
+        {
+            "name": "Raj",
+            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/committee/Raj.jpg?raw=true",
+            "division": "Computational Control and Intelligence",
+            "email": "raj.is20@bmsce.ac.in"
+        },
+        {
+            "name": "Raj",
+            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/committee/Raj.jpg?raw=true",
+            "division": "Computational Control and Intelligence",
+            "email": "raj.is20@bmsce.ac.in"
+        },
+        {
+            "name": "Raj",
+            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/committee/Raj.jpg?raw=true",
+            "division": "Computational Control and Intelligence",
+            "email": "raj.is20@bmsce.ac.in"
+        }
+    ]
+}

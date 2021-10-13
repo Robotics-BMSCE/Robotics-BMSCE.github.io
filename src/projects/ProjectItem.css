@@ -1,0 +1,16 @@
+.project-img {
+    height: 12rem;
+    width: 12rem;
+    border-radius: 100px;
+}
+
+.project-container {
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+    margin: 1%;
+}
+
+.projectitem-h3 {
+    text-align: center;
+}

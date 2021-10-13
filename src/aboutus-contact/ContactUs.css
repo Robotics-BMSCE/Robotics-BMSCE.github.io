@@ -1,0 +1,64 @@
+.contactus-container {
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.not-header {
+    display: flex;
+    flex-direction: row;
+}
+
+.contactus-h1 {
+    font-size: 48px;
+}
+
+.contactus-h2 {
+    font-size: 25px;
+}
+
+.contactus-h3 {
+    font-size: 17px;
+}
+
+.icon-div {
+    display: flex;
+    flex-direction: row;
+    padding-left: 20%;
+    justify-content: space-around;
+}
+
+.icon-insta {
+    height: 45px;
+    width: 45px;
+}
+
+.icon-linkedin {
+    height: 40px;
+    width: 40px;
+}
+
+.icon-github {
+    height: 40px;
+    width: 40px;
+}
+
+.contact-span {
+    width: 20px;
+}
+
+@media (max-width: 475px) {
+    .contact-span {
+        width: 10px;
+    }
+
+    .icon-div {
+        padding-left: 9%;
+    }
+}
+
+@media (max-width: 400px) {
+    .not-header {
+        flex-direction: column;
+    }
+}

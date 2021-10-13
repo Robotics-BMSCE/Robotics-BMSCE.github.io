@@ -1,0 +1,28 @@
+.division-container {
+    margin: 2%;
+    /*background: rgb(83, 90, 92);*/
+    display: flex;
+    color: black;
+    border: 1px solid black;
+    flex-direction: column;
+    padding: 1%;
+}
+
+.division-p {
+    text-align: justify;
+}
+
+.division-img {
+    height: 100%;
+    width: 100%;
+}
+
+@media (max-width: 950px) {
+    .division-container {
+        padding: 5%;
+    }
+
+    .division-img {
+        padding: 5%;
+    }
+}
