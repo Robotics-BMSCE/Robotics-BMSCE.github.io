@@ -38,7 +38,6 @@
     font-size: 20px;
 }
 
-
 @media (max-width: 950px) {
     .division-div {
         flex-direction: column;

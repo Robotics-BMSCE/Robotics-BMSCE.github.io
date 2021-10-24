@@ -14,7 +14,7 @@ const ContactForm = () => {
     const onChangeHandler = e => {
         setData({ ...data, [e.target.name] : e.target.value});
     }
-
+ 
     const onSubmitHandler = async e => {
         e.preventDefault();
         console.log(data);
@@ -32,16 +32,16 @@ const ContactForm = () => {
             <form name="google-sheet" onSubmit={onSubmitHandler}>
                 <div className="name-email">
                     <div className="form-group">
-                        <label htmlFor="name1" className="form-label">Name</label>
+                        
                         <input value={name} id="name" name="name" className="form-control" onChange={onChangeHandler} placeholder="Enter your name" required />
                     </div>
                     <div class="form-group">
-                        <label htmlFor="email1" className="form-label">Email</label>
+                        
                         <input type="email" id="email" value={email} onChange={onChangeHandler} name="email" className="form-control" placeholder="Enter your email address" required />
                     </div>
                 </div>
                 <div class="form-group">
-                    <label htmlFor="message" className="form-label form-label-textarea">Message</label>
+                   
                     <textarea id="message" value={message} onChange={onChangeHandler} name="message" className="form-control-textarea" placeholder="Enter your message" rows="3" required></textarea>
                 </div>
                 <div>

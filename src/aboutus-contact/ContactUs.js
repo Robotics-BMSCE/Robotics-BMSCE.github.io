@@ -3,8 +3,8 @@ import './ContactUs.css';
 import ContactForm from './ContactForm';
 
 const ContactUs = () => {
-    const email = "robotics@bmsce.ac.in";
-    const phno = "+91-7259027418";
+    const email = "robotics.bmsce@gmail.com";
+    const phno = "+91-7259027418"; 
     return ( 
         <div className="contactus-container center">
             <h1 className="contactus-h1">Contact Us</h1>

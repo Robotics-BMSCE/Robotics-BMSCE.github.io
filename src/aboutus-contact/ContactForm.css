@@ -15,13 +15,25 @@
 }
 
 .form-control {
-    height: 2rem;
-    padding-right: 5rem;
+    height: 2.5rem;
+    padding: 1rem;
+    border-radius: 3rem;
+    border: rgba(255, 255, 255);
+    margin-left: 2rem;
+    width: 15rem;
 }
 
 .form-control-textarea {
-    width: 60%;
-    height: 4rem;
+    width: 15rem;
+    height: 3rem;
+    border-radius: 2rem;
+    border: rgba(255, 255, 255);
+    padding: 1rem;
+}
+
+.form-label-textarea {
+    display: block;
+    align-items: center;
 }
 
 .submit-button {
@@ -33,6 +45,7 @@
     background: #0f960f;
     border: #0c0c0c;
     border-radius: 4px;
+    margin-top: 1rem;
 }
 
 .submit-button:hover {
@@ -56,11 +69,11 @@
     }
 
     .form-label-textarea {
-        margin-left: -5rem;
+        margin-left: 1rem;
     }
 
     .form-control-textarea {
-        width: 12rem;
+        margin-left: 1.7rem;
     }
 }
 
