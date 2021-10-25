@@ -10,13 +10,22 @@
 .event-img {
     display: flex;
     flex-direction: column;
-    width: 120%;
+    width: 35%;
     margin-right: 2%;
 }
 
 .event-image {
     height: 100%;
     width: 100%;
+}
+
+.event-p {
+    text-align: justify;
+    font-size: 15px;
+}
+
+.event-info {
+    width: 65%;
 }
 
 .event-platform {

@@ -11,6 +11,7 @@ const Event = props => {
             <div className="event-info">
                 <h1 className="event-h1">{props.title}</h1>
                 <h4 className="event-date">{props.date} | {props.time}</h4>
+                <p className="event-platform">Speaker: {props.speaker}</p>
                 <p className="event-p">{props.desc}</p>
                 <p className="event-platform">Platform: {props.platform}</p>
                 {props.type && <Button href={props.link} target="_blank">Register Now</Button>}

@@ -14,14 +14,20 @@
 .not-header {
     display: flex;
     flex-direction: row;
+    margin-top: 1.5rem;
 }
 
 .contactus-h1 {
     font-size: 48px;
 }
 
+.hr-contactus {
+    margin-top: -2rem;
+    width: 19rem;
+}
+
 .contactus-h2 {
-    font-size: 25px;
+    font-size: 28px;
 }
 
 .contactus-h3 {
