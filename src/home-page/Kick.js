@@ -10,7 +10,7 @@ export default function Model(props) {
   const { actions } = useAnimations(animations, group)
   return (
     <group ref={group} {...props} dispose={null}>
-      <group name="Armature" position={[0, -2.9, 0]} rotation={[Math.PI / 2, 0, 0]} scale={[0.036, 0.036, 0.036]}>
+      <group name="Armature" position={[0, -2.9, 0]} rotation={[Math.PI / 2, 0, 0]} scale={[0.036, 0.036, 0.036]}>  {/* To change the position and orientation of the bot */}
         <primitive object={nodes.mixamorigHips} />
         <skinnedMesh
           geometry={nodes.Beta_Joints.geometry}

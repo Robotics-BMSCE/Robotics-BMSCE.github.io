@@ -28,7 +28,8 @@ const ProjectPage = () => {
 
     return (
         <React.Fragment>
-            <Modal
+            {/* Contains everything that you want to show on the modal that pops up */}
+            <Modal  
                 show={showModal}
                 onCancel={closeModalHandler}
                 header={projectName}

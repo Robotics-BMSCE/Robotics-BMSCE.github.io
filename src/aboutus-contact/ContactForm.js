@@ -4,27 +4,27 @@ import './ContactForm.css';
 
 const url = "https://sheet.best/api/sheets/ec76a63a-617f-47e1-98d5-dc15ba0f4196";
 const ContactForm = () => {
-
+    const [mess, setMess] = useState();
     const [data, setData] = useState({
         message: "",
         email: "",
         name: ""
-    });
+    }); 
     const {message, email, name} = data;
-    const onChangeHandler = e => {
+    const onChangeHandler = e => {  //stores the data from form everytime something has been entered
         setData({ ...data, [e.target.name] : e.target.value});
     }
  
     const onSubmitHandler = async e => {
         e.preventDefault();
         console.log(data);
-        axios.post(url, data).then(res => console.log(res));
+        axios.post(url, data).then(res => console.log(res));  //post request for google sheets
         setData({
             name: "",
             email: "",
             message: ""
         });
-        alert("Sucessful");
+        setMess("Message sent!");  //to tell the user that the message has been sent successfully
     };
 
     return (
@@ -47,6 +47,7 @@ const ContactForm = () => {
                 <div>
                     <button className="submit-button" type="submit">Send</button>
                 </div>
+                {mess && <p className="center">{mess}</p>}
             </form>
         </div>
     );

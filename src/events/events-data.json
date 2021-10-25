@@ -1,23 +1,13 @@
 {
     "upcoming": [
         {
-            "title": "Robot Kinematics",
+            "title": "Club Inauguration",
             "date": "03/10/21, Sunday",
-            "speaker": "Sir",
+            "speaker": "",
             "time": "12:00 noon",
             "platform": "Google Meet",
-            "desc": "Here you will learn basic robot kinematics. join in at the time given to learn more and build robots with us. starts from complete basic and we continue from there and grow together. To register, click on the button and fill the google form provided with your college email id and have a nice time.",
+            "desc": "The wait is finally over! Your favourite Robotics Club has finally become official. Join us in the inauguration ceremony and experience the future of technology. ",
             "link": "https://www.google.com",
-            "image": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true"
-        },
-        {
-            "title": "Robot Kinematics",
-            "date": "03/10/21, Sunday",
-            "speaker": "Sir",
-            "time": "12:00 noon",
-            "desc": "Here you will learn basic robot kinematics. join in at the time given to learn more and build robots with us. starts from complete basic and we continue from there and grow together. To register, click on the button and fill the google form provided with your college email id and have a nice time.",
-            "platform": "Google Meet",
-            "link": ".....",
             "image": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true"
         }
     ],
@@ -34,10 +24,10 @@
         },
         {
             "title": "Robot Kinematics",
-            "date": "03/10/21, Sunday",
+            "date": "22nd Sept 2021",
             "speaker": "Vineeth P",
-            "time": "12:00 noon",
-            "desc": "Here you will learn basic robot kinematics. join in at the time given to learn more and build robots with us. starts from complete basic and we continue from there and grow together. To register, click on the button and fill the google form provided with your college email id and have a nice time.",
+            "time": "19:00 - 20:30",
+            "desc": "An interesting session on Spatial description and transformations conducted by one of the members of the core team, Vineeth. Topics like position, orientation, rotation matrix etc were discussed in detail. It was an interactive session to cultivate curiosity in participants. Along with theory, a few problems were also discussed.",
             "platform": "Google Meet",
             "link": ".....",
             "image": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true"

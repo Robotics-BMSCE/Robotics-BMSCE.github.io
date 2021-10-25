@@ -11,7 +11,7 @@ const MainNavigation = () => {
   const [drawerIsOpen, setDrawerIsOpen] = useState(false);
 
   const openDrawerHandler = () => {
-    setDrawerIsOpen(true);
+    setDrawerIsOpen(true);  
   };
 
   const closeDrawerHandler = () => {
@@ -33,7 +33,7 @@ const MainNavigation = () => {
           onClick={openDrawerHandler}
         >
           <span />
-          <span />
+          <span />  {/* These three spans are used to draw the three lines for the drawer button if screen size is reduced */}
           <span />
         </button>
         <h1 className="main-navigation__title">

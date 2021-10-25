@@ -1,3 +1,5 @@
+//To add data, search for the json files in every folder and add data in that particular format.
+
 import './index.css';
 import React from 'react';
 import {
