@@ -8,7 +8,7 @@
             "platform": "Google Meet",
             "desc": "The wait is finally over! Your favourite Robotics Club has finally become official. Join us in the inauguration ceremony and experience the future of technology. ",
             "link": "https://www.google.com",
-            "image": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true"
+            "image": "https://raw.githubusercontent.com/Robotics-BMSCE/WebsiteData/main/images/logo.jpeg?token=ARS2W3HJI23YINCOLEE32PTBPAUF2"
         }
     ],
     "past": [
@@ -20,7 +20,7 @@
             "platform": "Google Meet",
             "desc": "A session conducted by Sri. Narahari, Assistant Professor in the Dept of Mechanical Engineering with an aim to help students take their initial steps into the field of Robotics. Here we learnt about the social and economical effect on the growth of Robotics with various examples and also traced it's evolution. The webinar was followed by a Q&A session where the participants clarified their doubts.",
             "link": "",
-            "image": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true"
+            "image": "https://raw.githubusercontent.com/Robotics-BMSCE/WebsiteData/main/images/events/introRob.jpg?token=ARS2W3BWKUIDLGOTXWRU7U3BPAULA"
         },
         {
             "title": "Robot Kinematics",
@@ -30,7 +30,7 @@
             "desc": "An interesting session on Spatial description and transformations conducted by one of the members of the core team, Vineeth. Topics like position, orientation, rotation matrix etc were discussed in detail. It was an interactive session to cultivate curiosity in participants. Along with theory, a few problems were also discussed.",
             "platform": "Google Meet",
             "link": ".....",
-            "image": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true"
+            "image": "https://raw.githubusercontent.com/Robotics-BMSCE/WebsiteData/main/images/events/event-robot-kinematics.jpg?token=ARS2W3BIFMPO6XOHZERI46LBPAUJC"
         }
     ]
 }

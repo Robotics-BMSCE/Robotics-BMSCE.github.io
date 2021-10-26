@@ -14,9 +14,9 @@ const ContactUs = () => {
                     <h3 className="contactus-h3">{email}</h3>
                 </div>
                 <div className="icon-div">  {/* Social media handles */}
-                    <a href="https://www.google.com" rel="noreferrer" target="_blank"><img src="https://github.com/rajaryan18/Robotics-Images/blob/main/images/contactus/Instagram_icon.png?raw=true" alt="insta" className="icon-insta" /></a>
+                    <a href="https://www.google.com" rel="noreferrer" target="_blank"><img src="https://raw.githubusercontent.com/Robotics-BMSCE/WebsiteData/main/images/contact-logo/Instagram_icon.png?token=ARS2W3CL4DBN5V4CDTAZ6UDBPAUNK" alt="Instagram" className="icon-insta" /></a>
                     <span className="contact-span" />
-                    <a href="https://www.google.com" rel="noreferrer" target="_blank"><img src="https://github.com/rajaryan18/Robotics-Images/blob/main/images/contactus/linkedin-512.png?raw=true" alt="linkedin" className="icon-linkedin" /></a>
+                    <a href="https://www.google.com" rel="noreferrer" target="_blank"><img src="https://raw.githubusercontent.com/Robotics-BMSCE/WebsiteData/main/images/contact-logo/linkedin-512.png?token=ARS2W3GU7YITUXMRVV4CDZ3BPAUPY" alt="LinkedIn" className="icon-linkedin" /></a>
                 </div>
             </div>
             <ContactForm />
