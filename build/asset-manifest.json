@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Robotics-BMSCE.github.io/static/css/main.e4a3f5a9.chunk.css",
-    "main.js": "/Robotics-BMSCE.github.io/static/js/main.20d7cad8.chunk.js",
-    "main.js.map": "/Robotics-BMSCE.github.io/static/js/main.20d7cad8.chunk.js.map",
-    "runtime-main.js": "/Robotics-BMSCE.github.io/static/js/runtime-main.8b12672e.js",
-    "runtime-main.js.map": "/Robotics-BMSCE.github.io/static/js/runtime-main.8b12672e.js.map",
-    "static/js/2.131b1306.chunk.js": "/Robotics-BMSCE.github.io/static/js/2.131b1306.chunk.js",
-    "static/js/2.131b1306.chunk.js.map": "/Robotics-BMSCE.github.io/static/js/2.131b1306.chunk.js.map",
-    "static/js/3.cad6a4ca.chunk.js": "/Robotics-BMSCE.github.io/static/js/3.cad6a4ca.chunk.js",
-    "static/js/3.cad6a4ca.chunk.js.map": "/Robotics-BMSCE.github.io/static/js/3.cad6a4ca.chunk.js.map",
-    "index.html": "/Robotics-BMSCE.github.io/index.html",
-    "static/css/main.e4a3f5a9.chunk.css.map": "/Robotics-BMSCE.github.io/static/css/main.e4a3f5a9.chunk.css.map",
-    "static/js/2.131b1306.chunk.js.LICENSE.txt": "/Robotics-BMSCE.github.io/static/js/2.131b1306.chunk.js.LICENSE.txt"
+    "main.css": "/RoboticsBMSCE/static/css/main.e4a3f5a9.chunk.css",
+    "main.js": "/RoboticsBMSCE/static/js/main.20d7cad8.chunk.js",
+    "main.js.map": "/RoboticsBMSCE/static/js/main.20d7cad8.chunk.js.map",
+    "runtime-main.js": "/RoboticsBMSCE/static/js/runtime-main.7343f03c.js",
+    "runtime-main.js.map": "/RoboticsBMSCE/static/js/runtime-main.7343f03c.js.map",
+    "static/js/2.131b1306.chunk.js": "/RoboticsBMSCE/static/js/2.131b1306.chunk.js",
+    "static/js/2.131b1306.chunk.js.map": "/RoboticsBMSCE/static/js/2.131b1306.chunk.js.map",
+    "static/js/3.cad6a4ca.chunk.js": "/RoboticsBMSCE/static/js/3.cad6a4ca.chunk.js",
+    "static/js/3.cad6a4ca.chunk.js.map": "/RoboticsBMSCE/static/js/3.cad6a4ca.chunk.js.map",
+    "index.html": "/RoboticsBMSCE/index.html",
+    "static/css/main.e4a3f5a9.chunk.css.map": "/RoboticsBMSCE/static/css/main.e4a3f5a9.chunk.css.map",
+    "static/js/2.131b1306.chunk.js.LICENSE.txt": "/RoboticsBMSCE/static/js/2.131b1306.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b12672e.js",
+    "static/js/runtime-main.7343f03c.js",
     "static/js/2.131b1306.chunk.js",
     "static/css/main.e4a3f5a9.chunk.css",
     "static/js/main.20d7cad8.chunk.js"
