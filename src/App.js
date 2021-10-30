@@ -21,22 +21,22 @@ const App = () => {
       <Router>
         <MainNavigation />
         <Switch>
-          <Route path="/" exact>
+          <Route path={process.env.PUBLIC_URL + '/'} exact>
             <Home />
           </Route>
-          <Route path="/about" exact>
+          <Route path={process.env.PUBLIC_URL + '/about'} exact>
             <AboutPage />
           </Route>
-          <Route path="/events" exact>
+          <Route path={process.env.PUBLIC_URL + '/events'} exact>
             <EventPage />
           </Route>
-          <Route path="/projects" exact>
+          <Route path={process.env.PUBLIC_URL + '/projects'} exact>
             <ProjectPage />
           </Route>
-          <Route path="/team" exact>
+          <Route path={process.env.PUBLIC_URL + '/team'} exact>
             <Team />
           </Route>  
-          <Redirect to="/" />
+          <Redirect to={process.env.PUBLIC_URL + '/'} />
         </Switch>
       </Router>
     </>

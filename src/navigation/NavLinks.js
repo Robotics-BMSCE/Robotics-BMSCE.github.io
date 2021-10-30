@@ -8,27 +8,27 @@ const NavLinks = () => {
     <React.Fragment>
       <ul className="nav-links">
         <li>
-          <NavLink to="/" exact>
+          <NavLink to={process.env.PUBLIC_URL + '/'} exact>
             HOME
           </NavLink>
         </li>
         <li>
-          <NavLink to="/about">
+          <NavLink to={process.env.PUBLIC_URL + '/about'}>
             ABOUT US
           </NavLink>
         </li>
         <li>
-          <NavLink to="/events">
+          <NavLink to={process.env.PUBLIC_URL + '/events'}>
             EVENTS
           </NavLink>
         </li>
         <li>
-          <NavLink to="/projects">
+          <NavLink to={process.env.PUBLIC_URL + '/projects'}>
             PROJECTS
           </NavLink>
         </li>
         <li>
-          <NavLink to="/team">
+          <NavLink to={process.env.PUBLIC_URL + '/team'}>
             TEAM
           </NavLink>
         </li>
