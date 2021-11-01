@@ -5,6 +5,18 @@
     padding: 0px !important;
 }
 
+.animation-h1 {
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+
+@media (max-width: 1000px) {
+    .container {
+        height: 89vh !important;
+    }
+}
+
 @media (max-width: 768px) {
     .container {
         max-width: 760px;
