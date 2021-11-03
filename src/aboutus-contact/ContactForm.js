@@ -39,10 +39,10 @@ const ContactForm = () => {
                         
                         <input type="email" id="email" value={email} onChange={onChangeHandler} name="email" className="form-control" placeholder="Enter your email address" required />
                     </div>
-                </div>
+                </div> 
                 <div class="form-group">
                    
-                    <textarea id="message" value={message} onChange={onChangeHandler} name="message" className="form-control-textarea" placeholder="Enter your message" rows="3" required></textarea>
+                    <textarea id="message" value={message} onChange={onChangeHandler} name="message" className="form-control" placeholder="Enter your message" rows="3" required></textarea>
                 </div>
                 <div>
                     <button className="submit-button" type="submit">Send</button>

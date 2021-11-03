@@ -19,13 +19,35 @@ const Team = () => {
                     <TeamMember name={f.name} post={f.division} email={f.email} img={f.img} />)
                 }
             </div>
-            <hr />
+            {/* <hr />
             <h1 className="team-h1">Club Members</h1>
-            <div className="team-div center">
-                {data.club.map(f => 
-                <h5 className="team-member-h6">{f.name}</h5>)
-                }
+            <div className="team-div-club center">
+                <div className="club">
+                    <h4 className="club-h4">CCI</h4>
+                    <div className="club-div center">
+                        {data.cci.map(f => 
+                            <h5 className="club-h5">{f.name}</h5>)
+                        }
+                    </div>
+                </div>
+                <div className="club">
+                <h4 className="club-h4">EDP</h4>
+                    <div className="club-div center">
+                        {data.edp.map(f => 
+                            <h5 className="club-h5">{f.name}</h5>)
+                        }
+                    </div>
+                </div>
+                <div className="club">
+                <h4 className="club-h4">MDF</h4>
+                    <div className="club-div center">
+                        {data.mdf.map(f => 
+                            <h5 className="club-h5">{f.name}</h5>)
+                        }
+                    </div>
+                </div>
             </div>
+                    */}
         </div>
     );
 }

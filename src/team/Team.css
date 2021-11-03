@@ -16,6 +16,27 @@
     flex-wrap: wrap;
 }
 
+.team-div-club {
+    display: flex;
+    flex-direction: row;
+}
+
+.club {
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+}
+
+.club-div {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.club-h4 {
+    font-size: 23px;
+} 
+
 @media (max-width: 960px) {
     .faculty-div {
         flex-direction: column;

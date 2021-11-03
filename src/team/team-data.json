@@ -57,13 +57,37 @@
             "email": "raj.is20@bmsce.ac.in"
         }
     ],
-    "club": [
+    "cci": [
         {
-            "name": "Vineeth P"
+            "name": "ABCDEFGHIJKLMNO"
         },
         {
-
+            "name": "ABCD"
+        },
+        {
+            "name": "ABCD"
+        }
+    ],
+    "edp": [
+        {
+            "name": "ABCDEFGHIJKLMNO"
+        },
+        {
+            "name": "ABCD"
+        },
+        {
+            "name": "ABCD"
+        }
+    ],
+    "mdf": [
+        {
+            "name": "ABCDEFGHIJKLMNO"
+        },
+        {
+            "name": "ABCD"
+        },
+        {
+            "name": "ABCD"
         }
     ]
-
 }
