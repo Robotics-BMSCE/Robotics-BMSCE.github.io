@@ -12,10 +12,12 @@
 
 .team-member-h5 {
     font-size: 20px;
+    line-height: 22px;
 }
 
-.team-member-h3 {
-    font-size: 35px;
+.team-member-h4 {
+    font-size: 30px;
+    line-height: 32px;
 }
 
 .team-member-p {

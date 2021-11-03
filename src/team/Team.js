@@ -19,6 +19,13 @@ const Team = () => {
                     <TeamMember name={f.name} post={f.division} email={f.email} img={f.img} />)
                 }
             </div>
+            <hr />
+            <h1 className="team-h1">Club Members</h1>
+            <div className="team-div center">
+                {data.club.map(f => 
+                <h5 className="team-member-h6">{f.name}</h5>)
+                }
+            </div>
         </div>
     );
 }

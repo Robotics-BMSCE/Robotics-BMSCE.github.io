@@ -14,7 +14,7 @@ const Event = props => {
                 {props.speaker && <p className="event-platform">Speaker: {props.speaker}</p>}
                 {props.desc && <p className="event-p">{props.desc}</p>}
                 {props.platform && <p className="event-platform">Platform: {props.platform}</p>}
-                {props.type && <Button href={props.link} target="_blank">Register Now</Button>}
+                {props.type && props.link && <Button href={props.link} target="_blank">Register Now</Button>}
                 {!props.type && props.link && <Button href={props.link} target="_blank">Watch Replay</Button>}
             </div>
         </div>

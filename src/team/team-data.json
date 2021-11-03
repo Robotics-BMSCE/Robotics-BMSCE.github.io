@@ -1,36 +1,36 @@
 {
     "faculty": [
         {
-            "name": "Raj",
+            "name": "Dr. Rajath V",
             "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/faculty/Raj.jpg?raw=true",
-            "post": "Professor",
-            "email": "raj.is20@bmsce.ac.in"
+            "post": "Assistant Professor",
+            "email": "rajathv.ece@bmsce.ac.in"
         },
         {
-            "name": "Raj",
-            "post": "Professor",
+            "name": "Narahari N",
+            "post": "Assistant Professor",
             "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/faculty/Raj.jpg?raw=true",
-            "email": "raj.is20@bmsce.ac.in"
+            "email": "narahari.mech@bmsce.ac.in"
         },
         {
-            "name": "Raj",
-            "post": "Professor",
+            "name": "Dr. MA Sunil",
+            "post": "Assistant Professor",
             "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/faculty/Raj.jpg?raw=true",
-            "email": "raj.is20@bmsce.ac.in"
+            "email": "sunil.ece@bmsce.ac.in"
         }
     ],
     "committee": [
         {
-            "name": "Raj",
+            "name": "Vineeth P",
             "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/committee/Raj.jpg?raw=true",
-            "division": "Computational Control and Intelligence",
-            "email": "raj.is20@bmsce.ac.in"
+            "division": "Research and Developement Head",
+            "email": "vineethp.me18@bmsce.ac.in"
         },
         {
-            "name": "Raj",
+            "name": "Guru Nanma P",
             "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/committee/Raj.jpg?raw=true",
             "division": "Computational Control and Intelligence",
-            "email": "raj.is20@bmsce.ac.in"
+            "email": "nanma.cs18@bmsce.ac.in"
         },
         {
             "name": "Raj",
@@ -56,5 +56,14 @@
             "division": "Computational Control and Intelligence",
             "email": "raj.is20@bmsce.ac.in"
         }
+    ],
+    "club": [
+        {
+            "name": "Vineeth P"
+        },
+        {
+
+        }
     ]
+
 }

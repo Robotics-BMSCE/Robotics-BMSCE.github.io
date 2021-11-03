@@ -5,8 +5,9 @@
     text-align: center;
     display: flex;
     flex-direction: column;
-    padding: 5%;
+    padding: 4%;
     border-radius: 20px;
+    padding-top: 1%;
 }
 
 .team-div {

@@ -30,6 +30,7 @@
 
 .event-platform {
     font-weight: 700;
+    font-size: 13px;
 }
 
 @media (max-width: 1000px) {
@@ -41,6 +42,9 @@
 @media (max-width: 850px) {
     .event-container {
         flex-direction: column;
+    }
+    .event-info {
+        width: 100%;
     }
 
     .event-img {
