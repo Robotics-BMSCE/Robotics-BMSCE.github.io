@@ -3,38 +3,38 @@
         {
             "id": "1",
             "name": "LIDAR",
-            "desc": "LIDAR is a good project made by some people who did a good job at it. It wasgood and did its job perfectly. Documented also",
-            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true",
-            "doc": "LIDAR project file.txt",
-            "by": ["Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan"]
+            "desc": "LIDAR - Light Detection and Ranging is a method for determining ranges (variable distance) by targeti is used to map the surroundings, our prototype can move and we can map the surrounding with a range of 2 metre.",
+            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/projects/lidar1.JPG?raw=true",
+            "doc": "https://drive.google.com/drive/u/3/folders/10XSZvefyxq0LAkjH7aDdFZslxpIYU_8i6q6Q6kD3S2N_UzXi_g6GYT5OkyG3j47dhGD7GDRV",
+            "by": ["Ayush Sharma", "Raj Aryan", "Kshitij Sharma", "Anunaya Rimal", "Nandan Vagga"] 
         },
         {
             "id": "2",
-            "name": "LIDAR",
-            "desc": "LIDAR is a good project made by some people who did a good job at it. It wasgood and did its job perfectly. Documented also",
-            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true",
-            "doc": "LIDAR project file.txt",
-            "by": ["Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan"]
-        },
+            "name": "Gesture Control Bot",
+            "desc": "The Gesture Controlled robot detects the hand gesture shown through a live front camera. It can move front, back, right and left. It includes some special gestures which make it move 360 degrees. The speed for forward motion can also be controlled by another  special gesture, that varies the speed of the bot when the distance between the index finger and thumb finger varies proportionally.",
+            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/projects/gestureControlBot.jpg?raw=true",
+            "doc": "https://drive.google.com/file/d/13ehucr473rI3pVdOJgWR7rFqHRvXsZuC/view",
+            "by": ["Prashanth GS", "Vishvesha V", "V Pavan", "Anushka Shivkumar", "Nimisha MR", "Raghavendra HS"]
+        },    
         {
             "id": "3",
-            "name": "LIDAR",
-            "desc": "LIDAR is a good project made by some people who did a good job at it. It wasgood and did its job perfectly. Documented also",
-            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true",
-            "doc": "LIDAR project file.txt",
-            "by": ["Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan"]
+            "name": "LiDAR",
+            "desc": "LiDAR is a method for determining ranges (variable distance) by targeting an object with a laser and measuring the time for the reflected light to return to the receiver.",
+            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/projects/lidar3.JPG?raw=true",
+            "doc": "https://drive.google.com/file/d/1L6RP6aMG4DVa57I8_k0llrWjmHbrMLoA/view",
+            "by": ["Mohit S Sarode", "Mohammed Junaid Ahmed", "Rajath K T", "Ganapati Girish Kamat", "Soumya Gopal Kulhalli"]
         },
         {
             "id": "4",
-            "name": "LIDAR",
-            "desc": "LIDAR is a good project made by some people who did a good job at it. It wasgood and did its job perfectly. Documented also",
-            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true",
-            "doc": "LIDAR project file.txt",
-            "by": ["Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan"]
-        },
+            "name": "Serpant Bot",
+            "desc": "The Serpent Bot is a mimic to the actual Snake which is capable of different modes of reptile locomotion. It is a wireless Wi-Fi controlled Bot whose motion is controlled by an Android Application.",
+            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/projects/serpentBot.JPG?raw=true",
+            "doc": "https://drive.google.com/file/d/13ZFUkVOm16r1YET5T1qFcvYFDznX4eAc/view",
+            "by": ["Adithya Adiga", "Bhojraj Anand Kumbar", "Meghana Bukkapatnam", "Prachetha P Vasishta", "Suryadatta M Vadhoolas"]
+        }, 
         {
             "id": "5",
-            "name": "LIDAR",
+            "name": "Project",
             "desc": "LIDAR is a good project made by some people who did a good job at it. It wasgood and did its job perfectly. Documented also",
             "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true",
             "doc": "LIDAR project file.txt",
