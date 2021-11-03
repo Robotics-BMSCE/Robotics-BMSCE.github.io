@@ -42,7 +42,7 @@ const ContactForm = () => {
                 </div> 
                 <div class="form-group">
                    
-                    <textarea id="message" value={message} onChange={onChangeHandler} name="message" className="form-control" placeholder="Enter your message" rows="3" required></textarea>
+                    <input type="text" id="message" value={message} onChange={onChangeHandler} name="message" className="form-control" placeholder="Enter your message" required />
                 </div>
                 <div>
                     <button className="submit-button" type="submit">Send</button>
