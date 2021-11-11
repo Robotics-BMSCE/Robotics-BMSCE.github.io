@@ -31,14 +31,6 @@
             "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/projects/serpentBot.JPG?raw=true",
             "doc": "https://drive.google.com/file/d/13ZFUkVOm16r1YET5T1qFcvYFDznX4eAc/view",
             "by": ["Adithya Adiga", "Bhojraj Anand Kumbar", "Meghana Bukkapatnam", "Prachetha P Vasishta", "Suryadatta M Vadhoolas"]
-        }, 
-        {
-            "id": "5",
-            "name": "Project",
-            "desc": "LIDAR is a good project made by some people who did a good job at it. It wasgood and did its job perfectly. Documented also",
-            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true",
-            "doc": "LIDAR project file.txt",
-            "by": ["Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan"]
         }
     ]
 }

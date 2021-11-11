@@ -14,7 +14,7 @@ const AboutPage = () => {
         <React.Fragment>
             <div className="about-page-container">
                 <div className="team-div"> 
-                    <img src={'https://github.com/rajaryan18/Robotics-Images/blob/main/images/tree.jpg?raw=true'} alt="team" className="team" />
+                    <img src={'https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/about%20us/ClubPhoto.jpg?raw=true'} alt="team" className="team" />
                 </div>
                 <hr /> 
                 <div className="aboutus-container">
@@ -24,7 +24,7 @@ const AboutPage = () => {
                 </div>
                 <hr />
                 <div className="team-div"> 
-                    <img src={'https://github.com/rajaryan18/Robotics-Images/blob/main/images/tree.jpg?raw=true'} alt="team" className="team" />
+                    <img src={'https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/about%20us/aboutUs3.gif?raw=true'} alt="team" className="team" />
                 </div>
                 <div className="division-div">   {/* About the three divisions, i.e., CCI/EDP/MDF */}
                     <Divisions img={'https://github.com/rajaryan18/Robotics-Images/blob/main/images/tree.jpg?raw=true'} fullName="Computational Control and Intelligence" des={cciDescription} />
