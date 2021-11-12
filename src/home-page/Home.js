@@ -7,8 +7,8 @@ const Home = () => {
         <div className="home-container">
             <Animated />
             <div className="not-animation">
-                <h1 className="home-h1">BMSCE ROBOTICS CLUB</h1>
-                <p className="home-p">Innovation lies in learning</p>
+                <h1 className="home-h1" unselectable="on">BMSCE ROBOTICS CLUB</h1>
+                <p className="home-p" unselectable="on">Innovation lies in learning</p>
             </div>
         </div>
     );

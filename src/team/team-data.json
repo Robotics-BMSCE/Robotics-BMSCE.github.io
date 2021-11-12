@@ -22,38 +22,20 @@
     "committee": [
         {
             "name": "Vineeth P",
-            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/team/Vineeth%20P_%20R_D%20Head.jpeg?raw=true",
-            "division": "Research and Developement Head",
+            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/team/Vineeth_P_%20R_D%20Head.jpeg?raw=true",
+            "division": "Research and Developement",
             "email": "vineethp.me18@bmsce.ac.in"
         },
         {
             "name": "Guru Nanma P",
-            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/team/Guru%20Nanma%20P_CCI%20Lead.jpg?raw=true",
+            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/team/Guru%20Nanma%20P%20CCI%20Lead.jpg?raw=true",
             "division": "Computational Control and Intelligence",
             "email": "nanma.cs18@bmsce.ac.in"
         },
         {
-            "name": "Raj",
+            "name": "Rohith J",
             "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/team/Rohith_J_MDS.jpg?raw=true",
-            "division": "Computational Control and Intelligence",
-            "email": "raj.is20@bmsce.ac.in"
-        },
-        {
-            "name": "Raj",
-            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/committee/Raj.jpg?raw=true",
-            "division": "Computational Control and Intelligence",
-            "email": "raj.is20@bmsce.ac.in"
-        },
-        {
-            "name": "Raj",
-            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/committee/Raj.jpg?raw=true",
-            "division": "Computational Control and Intelligence",
-            "email": "raj.is20@bmsce.ac.in"
-        },
-        {
-            "name": "Raj",
-            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/committee/Raj.jpg?raw=true",
-            "division": "Computational Control and Intelligence",
+            "division": "Mechanical Design and Fabrication",
             "email": "raj.is20@bmsce.ac.in"
         }
     ],
