@@ -2,43 +2,35 @@
     "projects": [
         {
             "id": "1",
-            "name": "LIDAR",
-            "desc": "LIDAR is a good project made by some people who did a good job at it. It wasgood and did its job perfectly. Documented also",
+            "name": "Hand Gesture Controlled 2WD Bot",
+            "desc": "A Gesture Controlled robot is a one which can be controlled by your hand gestures. A hand detection program which uses PYTHON and OpenCV detects the gesture and transmits  an appropriate command to the bot via bluetooth connection. This data is then processed by a microcontroller which relays it to a motor driver which controls the motors and their speed. This way we can incorporate various types of movements as per our requirement and get the bot to execute it.",
             "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true",
-            "doc": "LIDAR project file.txt",
-            "by": ["Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan"]
+            "doc": "https://docs.google.com/document/d/1-7coD0epOKa4cvri4nD7fPda0URlRql1pMFTolk-pkI/edit?usp=sharing",
+            "by": ["Vishvesha V", "Anushka Shivkumar", "Nimisha MR", "V Pavan", "Raghavendra HS", "Prashanth GS"]
         },
         {
             "id": "2",
-            "name": "LIDAR",
-            "desc": "LIDAR is a good project made by some people who did a good job at it. It wasgood and did its job perfectly. Documented also",
+            "name": "LiDAR",
+            "desc": "LiDAR is a method for determining ranges (variable distance) by targeting an object with a laser and measuring the time for the reflected light to return to the receiver. LiDAR is an acronym of Light detection and ranging or Laser imaging, detection, and ranging. Typically, light is reflected via backscattering, as opposed to pure reflection one might find with a mirror.",
             "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true",
-            "doc": "LIDAR project file.txt",
-            "by": ["Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan"]
+            "doc": "https://docs.google.com/document/d/1APJiaU0weG5Ky3Rk5AOITbEzJC8IY1dUVlH_9apbZa0/edit?usp=sharing",
+            "by": ["Mohammed Junaid Ahmed", "Mohit Sarode", "Ganapati Kamat", "Rajath KT", "Soumya Kulhalli"]
         },
         {
             "id": "3",
-            "name": "LIDAR",
-            "desc": "LIDAR is a good project made by some people who did a good job at it. It wasgood and did its job perfectly. Documented also",
+            "name": "Serpent Bot",
+            "desc": "The Serpent Bot is a mimic to the actual Snake which is capable of different modes of reptile locomotion. It is a wireless Wi-Fi controlled Bot whose motion is controlled by an Android Application.",
             "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true",
-            "doc": "LIDAR project file.txt",
-            "by": ["Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan"]
+            "doc": "https://github.com/dattasurya08/Snake-Bot",
+            "by": ["Adithya Adiga", "Bhojraj Anand Kumbar", "Bukkapatnam Meghana", "Prachetha P Vasishta", "Sree Suryadatta M Vadhoolas"]
         },
         {
             "id": "4",
-            "name": "LIDAR",
-            "desc": "LIDAR is a good project made by some people who did a good job at it. It wasgood and did its job perfectly. Documented also",
+            "name": "LiDAR",
+            "desc": "A LIDAR is an abbreviation for Light Detection and Ranging. Lidar is a method for determining ranges (variable distance) by targeting an object with a laser and measuring the time for the reflected light to return to the receiver.",
             "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true",
-            "doc": "LIDAR project file.txt",
-            "by": ["Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan"]
-        },
-        {
-            "id": "5",
-            "name": "LIDAR",
-            "desc": "LIDAR is a good project made by some people who did a good job at it. It wasgood and did its job perfectly. Documented also",
-            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/projects/Raj.jpg?raw=true",
-            "doc": "LIDAR project file.txt",
-            "by": ["Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan", "Raj Aryan"]
+            "doc": "https://docs.google.com/document/d/1HzX6vlsts1xRxLYba4rMYQZvEGaKoU0aWohvSVmQqg8/edit?usp=sharing",
+            "by": ["Ayush Sharma", "Raj Aryan", "Ajit Gupta", "Anunaya Rimal", "Kshitij Sharma", "Nandan Vagga"]
         }
     ]
 }

@@ -40,7 +40,7 @@ const ProjectPage = () => {
                 <div className="map-container center">
                     <img src={projectImg} alt={projectName} className="img-project" />
                     <p className="project-p">{projectDesc}</p>
-                    <p> <FontAwesomeIcon icon={faFile} /> <a href={projectDoc} rel="noreferrer" target="_blank">{projectDoc}</a></p>
+                    <p> <FontAwesomeIcon icon={faFile} /> <a href={projectDoc} rel="noreferrer" target="_blank">Documentation Link</a></p>
                     <div className="contribution">
                         <h4 className="project-h4">Contributions from: </h4>
                         <p className="contribution-p">

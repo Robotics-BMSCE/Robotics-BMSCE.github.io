@@ -11,6 +11,11 @@
   display: inline-block;
 }
 
+.btn-center {
+  margin: auto;
+  width: 12rem;
+}
+
 .button:focus {
   outline: none;
 }
