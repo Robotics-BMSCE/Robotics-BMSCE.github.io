@@ -2,20 +2,20 @@
     "faculty": [
         {
             "name": "Dr. Rajath V",
-            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/faculty/Raj.jpg?raw=true",
+            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/team/rajathSir.JPG?raw=true",
             "post": "Assistant Professor",
             "email": "rajathv.ece@bmsce.ac.in"
         },
         {
             "name": "Narahari N",
             "post": "Assistant Professor",
-            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/faculty/Raj.jpg?raw=true",
+            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/team/narahariSir.JPG?raw=true",
             "email": "narahari.mech@bmsce.ac.in"
         },
         {
             "name": "Dr. MA Sunil",
             "post": "Assistant Professor",
-            "img": "https://github.com/rajaryan18/Robotics-Images/blob/main/images/faculty/Raj.jpg?raw=true",
+            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/team/sunilSir.JPG?raw=true",
             "email": "sunil.ece@bmsce.ac.in"
         }
     ],
@@ -36,8 +36,75 @@
             "name": "Rohith J",
             "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/team/Rohith_J_MDS.jpg?raw=true",
             "division": "Mechanical Design and Fabrication",
-            "email": "raj.is20@bmsce.ac.in"
+            "email": "rohithj.me18@bmsce.ac.in"
+        },
+        {
+            "name": "Yasho Mangal",
+            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/team/Yasho%20Mangal%20N.jpg?raw=true",
+            "division": "Electronic Design and Processing",
+            "email": "yasho.ec18@bmsce.ac.in"
+        },
+        {
+            "name": "Dheeraj R",
+            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/team/Dheeraj%20r.png?raw=true",
+            "division": "Joint secretary & Public Relations/Outreach",
+            "email": "dheeraj.me18@bmsce.ac.in"
+        },
+        {
+            "name": "Bharath G S",
+            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/team/anonymous.png?raw=true",
+            "division": "Joint secretary & Public Relations/Outreach",
+            "email": "bharathgs.ec19@bmsce.ac"
+        },
+        {
+            "name": "Hitesh N",
+            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/team/anonymous.png?raw=true",
+            "division": "Secretary",
+            "email": "hiteshn.me19@bmsce.ac.in"
+        },
+        {
+            "name": "Shashank T K",
+            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/team/anonymous.png?raw=true",
+            "division": "Public Relations/Outreach",
+            "email": "shashanktk.me19@bmsce.ac.in"
+        },
+        {
+            "name": "Sanat J",
+            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/team/anonymous.png?raw=true",
+            "division": "Robotics Club Treasurer",
+            "email": "sanatj.me19@bmsce.ac.in"
+        },
+        {
+            "name": "Nimisha",
+            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/team/Nimisha.jpg?raw=true",
+            "division": "Robotics Club Core",
+            "email": "nimisha.ec20@bmsce.ac.in"
+        },
+        {
+            "name": "Yogeswarr S",
+            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/team/Yogeswarr_S.png?raw=true",
+            "division": "Robotics Club Core",
+            "email": "yogeswarrs.ml19@bmsce.ac.in"
+        },
+        {
+            "name": "Meghana Bukka",
+            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/team/anonymous.png?raw=true",
+            "division": "Robotics Club Core",
+            "email": "meghana.ei19@bmsce.ac.in"
+        },
+        {
+            "name": "Keerthana K",
+            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/team/anonymous.png?raw=true",
+            "division": "Robotics Club Core",
+            "email": "keerthanak.is20@bmsce.ac.in"
+        },
+        {
+            "name": "Shreya S",
+            "img": "https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/team/Shreya_S_Makam.jpg?raw=true",
+            "division": "Robotics Club Core",
+            "email": "shreyas.ml19@bmsce.ac.in"
         }
+
     ],
     "cci": [
         {
