@@ -1,20 +1,20 @@
 {
     "upcoming": [
         {
-            "title": "Club Inauguration",
-            "date": "08/11/21, Monday",
-            "speaker": "",
-            "time": "3:30 pm",
-            "platform": "BMSCE, Auditorium 1",
-            "desc": "The wait is over! Your favourite Robotics Club has finally become official. Join us in the inauguration ceremony and experience the future of technology. ",
+            "title": "Webinar on the Introduction to Robotics",
+            "date": "16th July, 2021",
+            "speaker": "Sri. Narahari",
+            "time": "18:30 - 19:30",
+            "platform": "Google Meet",
+            "desc": "A session conducted by Sri. Narahari, Assistant Professor in the Dept of Mechanical Engineering with an aim to help students take their initial steps into the field of Robotics. Here we learnt about the social and economical effect on the growth of Robotics with various examples and also traced it's evolution. The webinar was followed by a Q&A session where the participants clarified their doubts.",
             "link": "",
-            "image": "https://raw.githubusercontent.com/Robotics-BMSCE/WebsiteData/main/images/logo.jpeg?token=ARS2W3HJI23YINCOLEE32PTBPAUF2"
+            "image": "https://raw.githubusercontent.com/Robotics-BMSCE/WebsiteData/main/images/events/introRob.jpg?token=ARS2W3BWKUIDLGOTXWRU7U3BPAULA"
         }
     ],
     "past": [
         {
             "title": "Webinar on the Introduction to Robotics",
-            "date": "16th July 2021",
+            "date": "16th July, 2021",
             "speaker": "Sri. Narahari",
             "time": "18:30 - 19:30",
             "platform": "Google Meet",
@@ -24,13 +24,33 @@
         },
         {
             "title": "Robot Kinematics",
-            "date": "22nd Sept 2021",
+            "date": "22nd Sept., 2021",
             "speaker": "Vineeth P",
             "time": "19:00 - 20:30",
             "desc": "An interesting session on Spatial description and transformations conducted by one of the members of the core team, Vineeth. Topics like position, orientation, rotation matrix etc were discussed in detail. It was an interactive session to cultivate curiosity in participants. Along with theory, a few problems were also discussed.",
             "platform": "Google Meet",
-            "link": ".....",
+            "link": "",
             "image": "https://raw.githubusercontent.com/Robotics-BMSCE/WebsiteData/main/images/events/event-robot-kinematics.jpg?token=ARS2W3BIFMPO6XOHZERI46LBPAUJC"
+        },
+        {
+            "title": "Club Inauguration",
+            "date": "8th Nov., 2021",
+            "speaker": "",
+            "time": "3:30 pm",
+            "platform": "BMSCE, Auditorium 1",
+            "desc": "The wait is over! Your favourite Robotics Club has finally become official. Join us in the inauguration ceremony and experience the future of technology. ",
+            "link": "",
+            "image": "https://raw.githubusercontent.com/Robotics-BMSCE/WebsiteData/main/images/logo.jpeg?token=ARS2W3HJI23YINCOLEE32PTBPAUF2"
+        },
+        {
+            "title": "Webinar on projects covering ML, RL and YOLOv5",
+            "date": "20th Dec., 2021",
+            "speaker": "Guru Nanma P, Vineeth P, Shikha N",
+            "time": "17:30 - 19:30",
+            "platform": "Zoom",
+            "desc": "A session covering implementation of various projects that roboticists might come across. Machine Learning for mechanical datasets, Custom Object Detection using YOLOv5 and basics of Reinforcement Learning were covered. The webinar was followed by a Q&A session where the participants clarified their doubts.",
+            "link": "",
+            "image": "https://raw.githubusercontent.com/Robotics-BMSCE/WebsiteData/main/images/events/ml_rl_yolo.jpg?token=ARS2W3BIFMPO6XOHZERI46LBPAUJC"
         }
     ]
 }
