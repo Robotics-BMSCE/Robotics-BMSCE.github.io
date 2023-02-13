@@ -23,7 +23,7 @@ const AboutPage = () => {
                     <p className="aboutus-p">{aboutDescription2}</p>
                 </div>
                 <hr />
-                <div className="team-div"> 
+                <div className="team-div"> {/* three divisions, images */}
                     <img src={'https://github.com/Robotics-BMSCE/WebsiteData/blob/main/images/about%20us/aboutUs5.gif?raw=true'} alt="team" className="team" />
                 </div>
                 <div className="division-div">   {/* About the three divisions, i.e., CCI/EDP/MDF */}
